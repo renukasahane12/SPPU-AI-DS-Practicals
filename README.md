@@ -1,1 +1,1 @@
-# SPPU-AI-DS-Practicals
+# SPPU-TE-AI-DS-Practicals
