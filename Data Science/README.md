@@ -1,1 +1,1 @@
-Data Science Practicals 
+ANN Practicals 
